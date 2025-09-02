@@ -1,4 +1,4 @@
-# 🇺🇸
+# 🇺🇸 / 🇬🇧
 # 👋 Hey, I’m Alex!
 
 I’m a **fullstack developer**, and lately I spend most of my time with **Flutter** and **JavaScript**.  
@@ -36,7 +36,7 @@ These are the languages and tools I’ve worked with:
 ## 🌍 Where to find me
 If you want to reach out or do business, you can find me here:  
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](linkedin.com/in/alexgonzalezmatias)  
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](linkedin.com/in/alexgonzalezmatias) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xelagm990@gmail.com)  
 
 ---
