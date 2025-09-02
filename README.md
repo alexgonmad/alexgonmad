@@ -90,6 +90,11 @@ Si quieres contarme algo o hacer negocios me encontrarás por aquí:
 
 ✨ Gracias por pasarte por aquí :)
 
+
+Real Github activity (09/2025)
+<img width="768" height="201" alt="image" src="https://github.com/user-attachments/assets/c3d33e3f-c308-4a64-b468-af2fad134a8b" />
+
+
 <!---
 alexgonmad/alexgonmad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
