@@ -36,7 +36,7 @@ These are the languages and tools I’ve worked with:
 ## 🌍 Where to find me
 If you want to reach out or do business, you can find me here:  
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/alexgonzalezmatias) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexgonzalezmatias)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xelagm990@gmail.com)  
 
 ---
@@ -83,7 +83,7 @@ Estos son los lenguajes y herramientas con los que tengo experiencia:
 ## 🌍 Dónde encontrarme
 Si quieres contarme algo o hacer negocios me encontrarás por aquí:  
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/alexgonzalezmatias) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexgonzalezmatias)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xelagm990@gmail.com)  
 
 ---
