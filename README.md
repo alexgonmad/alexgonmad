@@ -1,4 +1,4 @@
-# 🇺🇸 / 🇬🇧
+# **English**
 # 👋 Hey, I’m Alex!
 
 I’m a **fullstack developer**, and lately I spend most of my time with **Flutter** and **JavaScript**.  
@@ -45,7 +45,7 @@ If you want to reach out or do business, you can find me here:
 
 
 
-# 🇪🇸
+# **Español**
 # 👋 ¡Hola, soy Alex!
 
 Soy desarrollador **fullstack** y últimamente paso la mayor parte del tiempo con **Flutter** y **JavaScript**.  
